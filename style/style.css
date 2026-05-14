@@ -445,6 +445,10 @@ padding: 75px 0 0 31px;
  
 }
 
+.dear{
+  padding-bottom: 55px;
+}
+
 .timing {
   color: var(--bg-color);
 }
