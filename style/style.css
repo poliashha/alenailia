@@ -53,7 +53,7 @@ html {
 .green {
   background-color: var(--bg-green);
   margin-top: -115px;
-  padding: 0 35px;
+  padding: 0 30px;
   color: var(--color-text-green);
   gap: 29px;
 }
@@ -442,8 +442,7 @@ padding: 75px 0 0 31px;
 
 .collage-img {
   aspect-ratio: 412/270;
-  max-width: 412px;
-  width: 100%;
+ 
 }
 
 .timing {
